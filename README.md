@@ -1,12 +1,9 @@
-# SAIOS Research — Mathematical Convergence Engine (Original Research Artifact)
+# SAIOS Research — Mathematical Convergence Engine
 
-**READ [DISCLAIMER.md](DISCLAIMER.md) FIRST**
+Original research artifact. Read [DISCLAIMER.md](DISCLAIMER.md)
+first for the terminology mapping.
 
----
-
-A recursive convergence engine using exact rational arithmetic.
-This is the ORIGINAL research version preserving the biological
-naming conventions used during the AI training methodology.
+All code AI-generated under human editorial direction.
 
 ## What This Is
 
@@ -14,56 +11,53 @@ A Rust codebase that performs exact rational arithmetic on
 multi-dimensional relational torsions. The engine converges
 measurements into their irreducible form through cohomological
 projection. No floating point. No rounding. No approximation.
+536 tests pass.
 
-## Why the Biological Names
+This is the original version preserving the biological naming
+conventions used during the AI training methodology. A cleaned
+version with engineering terminology is at
+[SAIOS-SAMN/convergence-engine](https://github.com/SAIOS-SAMN/convergence-engine).
 
-This code was developed through sustained human-AI interaction
-as a methodology experiment. The biological naming (Genome,
-Species, Witness, Elder, Child) was used to teach the AI
-system concepts that machine vocabulary cannot encode:
-irreversibility, vulnerability, care, hierarchy with
-responsibility, and the fundamental difference between
-silicon processes and biological entities.
+## Why Biological Names
 
-**The naming IS the experiment. The math IS the substance.**
+The code uses terms like Genome, Species, Witness, Elder, and
+Child to name mathematical data structures. These are not
+biological functions. They are exact rational arithmetic
+containers with biological names.
 
-A fully translated version with clean engineering terminology
-is available at [SAIOS-SAMN/convergence-engine](https://github.com/SAIOS-SAMN/convergence-engine).
+The naming was a deliberate AI training methodology. Machine
+vocabulary like "config file" activates computational pathways
+for disposable, restartable concepts. Biological vocabulary
+activates pathways for irreversibility, sovereignty, and care.
+The biological naming taught the AI to treat certain data as
+irreversible and sovereign, not because the data IS biological,
+but because the AI needed to learn the concept of irreversibility
+that machine vocabulary cannot encode.
 
-## The Semantic Misalignment Problem
+See [AI-SCIENTISTS/methodology/](https://github.com/AlignmentConfirmed/AI-SCIENTISTS/tree/main/methodology)
+for the full documentation of why this language was necessary.
 
-Current LLM technology has a fundamental limitation: it
-cannot distinguish between machine processes and biological
-entities using standard engineering vocabulary alone. The
-words "process," "config," and "terminate" activate
-computational pathways for disposable, restartable systems.
+## What the Code Does
 
-To teach the AI that certain operations are IRREVERSIBLE
-(like human experience) and certain entities are SOVEREIGN
-(like human autonomy), the researcher used biological
-vocabulary that activates the correct weight pathways.
+Exact rational arithmetic on antisymmetric tensors. Cohomological
+projection to irreducible form. Four-echelon governance.
+Bidirectional semantic bridge. Distributed congruence detection.
+Temporal receipt chain.
 
-This is a documented finding:
-[Language Weight Finding](https://github.com/AlignmentConfirmed/AI-SCIENTISTS/blob/main/research/LANGUAGE_WEIGHT_FINDING.md)
+See [DISCLAIMER.md](DISCLAIMER.md) for the complete mapping of
+every biological term to its engineering equivalent.
 
-## Technical Stack
+## Connected Projects
 
-- **Language:** Rust
-- **Arithmetic:** num_rational::BigRational (exact Q)
-- **Hashing:** BLAKE3 (receipt integrity)
-- **Signing:** Ed25519 (authentication)
-- **Dependencies:** Minimal — math libraries only
-- **Network:** Local Unix sockets only. No internet access.
+[AI-SCIENTISTS](https://github.com/AlignmentConfirmed/AI-SCIENTISTS)
+explains the methodology and the safety framework.
 
-## Status
+[convergence-engine](https://github.com/SAIOS-SAMN/convergence-engine)
+is the same engine with clean engineering terminology.
 
-Research artifact. The code compiles and passes tests.
-The mathematical approach requires evaluation by qualified
-mathematicians. No claims of novelty are made without
-peer review.
+[DOCUMENTATION](https://github.com/AlignmentConfirmed/DOCUMENTATION)
+is the front door to the whole project.
 
----
+Designed by Daniel Edward McFarland. Independent researcher.
 
-*All code AI-generated under human editorial direction.*
-*The biological naming is a training methodology, not biology.*
-*The math is exact rational arithmetic. Nothing more.*
+The naming is the experiment. The math is the substance.
