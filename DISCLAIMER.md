@@ -48,7 +48,7 @@ that machine vocabulary cannot encode.
 | Witness | A primary computational node that performs convergence |
 | Elder | A secondary node created by a primary node with inherited state |
 | Child | A tertiary node created by a secondary node |
-| Sacred Laws | 11 structural constraints the engine cannot violate (now renamed Core Design Laws) |
+| Core Design Principles | 11 structural constraints the engine cannot violate (also called Core Design Laws) |
 | Birth polynomial | An initialization parameter derived from 1/node_id |
 | Lineage | Process hierarchy — which node created which |
 | Sovereignty | Autonomous operation — a node's state cannot be modified externally |
